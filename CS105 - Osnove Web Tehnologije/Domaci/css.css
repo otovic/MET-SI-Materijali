@@ -1,0 +1,36 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  iframe {
+    width: 45%;
+    height: 500px;
+  }
+  
+  .responsive-image {
+    width: 45%;
+    height: auto;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .wrapper {
+      flex-direction: column;
+    }
+  
+    iframe {
+      width: 100%;
+    }
+  
+    .responsive-image {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .responsive-image {
+      display: none;
+    }
+  }
