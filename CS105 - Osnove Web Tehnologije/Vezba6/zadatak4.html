@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Horizontalni meni</title>
+  <style>
+  .meni {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkred;
+  }
+  /*neposećeni link*/
+  a:link {
+    display: inline-block;
+    color: beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+  a:visited {
+    display: inline-block;
+    color: lightsalmon;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+  a:hover {
+    background-color: antiquewhite;
+    color: black;
+  }
+  body {
+    background: seagreen;
+    color: white;
+  }
+  p {
+    display: none;
+    background-color: yellow;
+    color: black;
+    padding: 20px;
+  }
+
+  div:hover p {
+    display: block;
+  }
+  
+  </style>
+</head>
+<body>
+
+  <nav class="meni">
+    <a href="zadatak1.html">Galerija</a>
+    <a href="zadatak2.html">Forma</a>
+    <a href="zadatak3.html">Tabela</a>
+    <a href="zadatak4.html">Meni</a>
+  </nav>
+  <h1>Stilizacija menija</h1>
+  <div> Pređite kursorom preko ovog elementa div da biste prikazali element p
+    <p>Evo ga sakriveni tekst!</p>
+  </div>
+</body>
+</html>
+
+
