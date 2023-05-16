@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Zadatak 2</title>
+	<style>
+	* { 	}
+	body {	}
+	h2, p {  }
+
+	input[type=text], select, textarea { 	}
+
+	label {	}
+
+	input[type=submit] { 	}
+
+	input[type=submit]:hover {	}
+
+	.container {  }
+
+	.col-25 { 	}	
+
+	.col-75 { 	}
+
+	/* "Čisti" float posle kolone */
+	.row::after {	}
+
+	/* Kada je ekran manji od 600px "kolone" će biti jedna ispod druge*/
+	@media screen and (max-width: 600px) {
+  		.col-25, .col-75, input[type=submit] {
+  		}
+	}
+</style>
+
+</head>
+<body>
+	<h2>Moja forma</h2>
+	<p>Smanjite ekran ma 600px ili manje.</p>
+
+	<div class="container">
+  		<form action="/action_page.php">
+	  		<div class="row">
+	    		<div class="col-25">
+	      			<label for="fname">Ime</label>
+	    		</div>
+	    		<div class="col-75">
+	      			<input type="text" id="fname" name="firstname" placeholder="Vaše ime..">
+	    		</div>
+	  		</div>
+	  		<div class="row">
+	    		<div class="col-25">
+	      			<label for="lname">Prezimke</label>
+	    		</div>
+	    		<div class="col-75">
+	      			<input type="text" id="lname" name="lastname" placeholder="Vaše prezime..">
+	    		</div>
+	  		</div>
+	  		<div class="row">
+	    		<div class="col-25">
+	      			<label for="country">Zemlja</label>
+	    		</div>
+	    		<div class="col-75">
+	      			<select id="country" name="country">
+	        			<option value="australia">Australija</option>
+	        			<option value="canada">Kanada</option>
+	        			<option value="usa">SAD</option>
+	      			</select>
+	    		</div>
+		  	</div>
+	  		<div class="row">
+	    		<div class="col-25">
+	      			<label for="subject">Tema</label>
+	    		</div>
+	    		<div class="col-75">
+	      			<textarea id="subject" name="subject" placeholder="Napišite nešto.." style="height:200px"></textarea>
+	    		</div>
+	  		</div>
+	  		<br>
+	  		<div class="row">
+	    		<input type="submit" value="Submit">
+	  		</div>
+	  	</form>
+	</div>
+</body>
+</html>
