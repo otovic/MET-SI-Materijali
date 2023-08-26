@@ -96,3 +96,16 @@ body {
     align-items: center;
     color: white;
 }
+
+#pecko {
+    background-color: yellow;
+}
+
+#myTable {
+    border: 1px solid green;
+    border-spacing: 0px;
+}
+
+#myTable > tbody > tr > td {
+    border: 1px solid rgb(255, 0, 0);
+}
