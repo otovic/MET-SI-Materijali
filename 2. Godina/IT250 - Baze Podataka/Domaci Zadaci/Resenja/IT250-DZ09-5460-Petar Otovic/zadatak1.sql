@@ -1,0 +1,1 @@
+SELECT indeks, ime, prezime, smer.smer_naziv FROM student INNER JOIN smer ON student.smer_id = smer.smer_id

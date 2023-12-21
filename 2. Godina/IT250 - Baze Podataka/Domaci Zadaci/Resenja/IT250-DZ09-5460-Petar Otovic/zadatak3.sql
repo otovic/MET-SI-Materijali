@@ -1,0 +1,1 @@
+SELECT ime, prezime, zvanje FROM profesor

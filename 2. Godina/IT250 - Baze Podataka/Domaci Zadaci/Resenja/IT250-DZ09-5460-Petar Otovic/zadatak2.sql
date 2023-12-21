@@ -1,0 +1,1 @@
+SELECT predmet_id, naziv, espb FROM predmet
