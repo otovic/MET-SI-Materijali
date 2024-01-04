@@ -1,0 +1,11 @@
+Zadatak 1 - Baza Podataka 1
+
+Vreme prenosa Pacijent tabele na lokaciju I3:
+vreme_prenosa_pacijent = (1000 * 120) / 50000 + 0.1
+
+Vreme prenosa Bolest tabele na lokaciju I3:
+vreme_prenosa_bolest = (500 * 120) / 50000 + 0.1
+
+ukupno_vreme_prenosa = vreme_prenosa_pacijent + vreme_prenosa_bolest 
+ukupno_vreme_prenosa =  2.5 + 1.3
+ukupno_vreme_prenosa = 3.8
