@@ -1,0 +1,4 @@
+Zadatak 1: db.restorani.find({ skor: { $gt: 90 } }, { _id: 0, ime: 1 })
+Zadatak 2: db.restorani.find({ skor: { $gt: 80, $lt: 100 } }, { _id: 0, ime: 1 })
+Zadatak 3: db.restorani.find({ latituda: { $lt: -65.7 }, skor: { $gt: 70 } })
+
