@@ -1,0 +1,10 @@
+1. Registracija je kada pozovemo metodu za "akciju", dakle recimo .setOnAction(), pa proces dogadjaja je ono nakon toga, ono sto prosledimo kao parametar, implmenetiramo intefejs, metodu, i unutar metode obradimo dogadjaj…
+
+2. Button btn = new Button("Dugme 1"); Postize se primera radi to da recimo ako imamo textField i popunimo ga sa podatkom, i kliknemo na dugme, sadrzaj tekstfield-a se sacuva u nasoj ArrayList-i koja je tipa String, ako tako vec podesimo nasu metodu. Razne druge akcije se mogu desavati primenom ove kontrole.
+
+3. Genericka metoda je metoda koja moze poprimiti odredjenu klasu i nad njom izvrsiti neke operacije. Npr. public static <E> List<E> max(List<E> lista) { } 
+Uvek posle static ide oznaka za genericku metodu osim ako je klasa vec genericka, onda ne treba nakon static <E>, mozemo samo proslediti List<E> pod pretpostavkom da je klasa definisana kao: public class Klasa<E>. Oznaka E, moze biti bilo koje slovo, pa cak i rec, ali je nepisano pravilo da se stavljaju slova E ili T recimo.
+
+4. Metoda run() definise sta ce nit da uradi prakticno, a start() pokrece tu nit.
+
+5. PreparedStatement se koristi za paramterizovane objekte koje mi saljemo kao vrednost nakon obrade sql upita. Prakticno tu se vrsi sigurnost od sql injection-a jer se ne upisuju u upit direktne vrednosti nego tek nakon obrade. Prakticno se pisu upitnici u query-u a posle se oni inicijaliziju primenom metode setInt, setString i slicno.
