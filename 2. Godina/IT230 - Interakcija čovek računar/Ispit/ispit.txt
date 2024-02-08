@@ -1,0 +1,9 @@
+P, P
+
+ergonomija
+
+heuristika
+
+O RAZVOJNIM OKRUZENJIMA
+
+testovi: govorna interakcija, navigacija, android, net, responsivness, gki, 
