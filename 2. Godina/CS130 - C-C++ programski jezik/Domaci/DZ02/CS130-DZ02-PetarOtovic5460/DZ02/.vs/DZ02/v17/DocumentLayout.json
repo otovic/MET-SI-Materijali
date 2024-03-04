@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ02\\CS130-DZ02-PetarOtovic5460\\DZ02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DD360D-B8E1-4425-A150-61FFE9021DD4}|Zadatak29\\Zadatak29.vcxproj|C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ02\\CS130-DZ02-PetarOtovic5460\\DZ02\\Zadatak29\\Zadatak29.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6DD360D-B8E1-4425-A150-61FFE9021DD4}|Zadatak29\\Zadatak29.vcxproj|solutionrelative:Zadatak29\\Zadatak29.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344C3B7C-0213-4200-805B-006B6389AC9B}|DZ02\\DZ02.vcxproj|C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ02\\CS130-DZ02-PetarOtovic5460\\DZ02\\DZ02\\DZ02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{344C3B7C-0213-4200-805B-006B6389AC9B}|DZ02\\DZ02.vcxproj|solutionrelative:DZ02\\DZ02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadatak29.cpp",
+              "DocumentMoniker": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ02\\CS130-DZ02-PetarOtovic5460\\DZ02\\Zadatak29\\Zadatak29.cpp",
+              "RelativeDocumentMoniker": "Zadatak29\\Zadatak29.cpp",
+              "ToolTip": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ02\\CS130-DZ02-PetarOtovic5460\\DZ02\\Zadatak29\\Zadatak29.cpp",
+              "RelativeToolTip": "Zadatak29\\Zadatak29.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T08:54:48.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DZ02.cpp",
+              "DocumentMoniker": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ02\\CS130-DZ02-PetarOtovic5460\\DZ02\\DZ02\\DZ02.cpp",
+              "RelativeDocumentMoniker": "DZ02\\DZ02.cpp",
+              "ToolTip": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ02\\CS130-DZ02-PetarOtovic5460\\DZ02\\DZ02\\DZ02.cpp",
+              "RelativeToolTip": "DZ02\\DZ02.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T08:22:08.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

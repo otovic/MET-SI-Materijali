@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DZ02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DZ02.cpp
+C:\MET-Materijali\2. Godina\CS130 - C-C++ programski jezik\Domaci\DZ02\CS130-DZ02-PetarOtovic5460\DZ02\DZ02\DZ02.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\MET-Materijali\2. Godina\CS130 - C-C++ programski jezik\Domaci\DZ02\CS130-DZ02-PetarOtovic5460\DZ02\DZ02\DZ02.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DZ02.vcxproj -> C:\MET-Materijali\2. Godina\CS130 - C-C++ programski jezik\Domaci\DZ02\CS130-DZ02-PetarOtovic5460\DZ02\x64\Debug\Zadatak1.exe
