@@ -1,0 +1,4 @@
+﻿  Vezbe4.cpp
+C:\MET-Materijali\2. Godina\CS130 - C-C++ programski jezik\Vezbe\04\Vezbe4\Vezbe4\Vezbe4.cpp(10,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\MET-Materijali\2. Godina\CS130 - C-C++ programski jezik\Vezbe\04\Vezbe4\Vezbe4\Vezbe4.cpp(10,12): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  Vezbe4.vcxproj -> C:\MET-Materijali\2. Godina\CS130 - C-C++ programski jezik\Vezbe\04\Vezbe4\x64\Debug\Vezbe4.exe
