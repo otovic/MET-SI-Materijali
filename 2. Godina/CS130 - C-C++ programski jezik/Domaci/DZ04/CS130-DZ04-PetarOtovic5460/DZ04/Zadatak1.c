@@ -1,0 +1,26 @@
+﻿#include <stdio.h>
+
+void uredi(int* a, int* b) {
+    int temp = *a;
+    *a = *b;
+    *b = temp;
+}
+
+void sortiraj(int* x, int* y, int* z) {
+    if (*x < *y) uredi(x, y);
+    if (*y < *z) uredi(y, z);
+    if (*x < *y) uredi(x, y);
+}
+
+int main() {
+    int x, y, z;
+
+    printf("Unesite tri broja: ");
+    scanf_s("%d %d %d", &x, &y, &z);
+
+    sortiraj(&x, &y, &z);
+
+    printf("Ne-rastuci poredak: %d %d %d\n", x, y, z);
+
+    return 0;
+}

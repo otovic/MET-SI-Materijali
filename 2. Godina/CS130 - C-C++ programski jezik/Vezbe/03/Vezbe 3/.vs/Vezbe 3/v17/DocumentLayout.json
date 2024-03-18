@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Vezbe\\03\\Vezbe 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565EDA1A-E1B0-484E-9020-336BF44400EA}|Vezbe 3\\Vezbe 3.vcxproj|C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Vezbe\\03\\Vezbe 3\\Vezbe 3\\Vezbe 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{565EDA1A-E1B0-484E-9020-336BF44400EA}|Vezbe 3\\Vezbe 3.vcxproj|solutionrelative:Vezbe 3\\Vezbe 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vezbe 3.c",
+              "DocumentMoniker": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Vezbe\\03\\Vezbe 3\\Vezbe 3\\Vezbe 3.c",
+              "RelativeDocumentMoniker": "Vezbe 3\\Vezbe 3.c",
+              "ToolTip": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Vezbe\\03\\Vezbe 3\\Vezbe 3\\Vezbe 3.c*",
+              "RelativeToolTip": "Vezbe 3\\Vezbe 3.c*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-07T12:04:53.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

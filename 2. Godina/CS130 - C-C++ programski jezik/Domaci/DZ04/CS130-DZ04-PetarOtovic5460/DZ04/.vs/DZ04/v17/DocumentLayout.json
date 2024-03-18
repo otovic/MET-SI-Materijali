@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ04\\CS130-DZ04-PetarOtovic5460\\DZ04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4801F72-0962-487F-AB32-6FA46AF8FDC3}|..\\Zadatak21\\Zadatak21.vcxproj|C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ04\\CS130-DZ04-PetarOtovic5460\\Zadatak21\\Zadatak21.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027C54E4-FFBA-4ED7-ABAD-B1C94F761D96}|DZ04.vcxproj|C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ04\\CS130-DZ04-PetarOtovic5460\\DZ04\\Zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{027C54E4-FFBA-4ED7-ABAD-B1C94F761D96}|DZ04.vcxproj|solutionrelative:Zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadatak21.c",
+              "DocumentMoniker": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ04\\CS130-DZ04-PetarOtovic5460\\Zadatak21\\Zadatak21.c",
+              "RelativeDocumentMoniker": "..\\Zadatak21\\Zadatak21.c",
+              "ToolTip": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ04\\CS130-DZ04-PetarOtovic5460\\Zadatak21\\Zadatak21.c",
+              "RelativeToolTip": "..\\Zadatak21\\Zadatak21.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T08:35:13.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zadatak1.c",
+              "DocumentMoniker": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ04\\CS130-DZ04-PetarOtovic5460\\DZ04\\Zadatak1.c",
+              "RelativeDocumentMoniker": "Zadatak1.c",
+              "ToolTip": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ04\\CS130-DZ04-PetarOtovic5460\\DZ04\\Zadatak1.c",
+              "RelativeToolTip": "Zadatak1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T08:29:36.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

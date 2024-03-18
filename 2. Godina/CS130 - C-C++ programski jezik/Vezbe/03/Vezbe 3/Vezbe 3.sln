@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vezbe 3", "Vezbe 3\Vezbe 3.vcxproj", "{565EDA1A-E1B0-484E-9020-336BF44400EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565EDA1A-E1B0-484E-9020-336BF44400EA}.Debug|x64.ActiveCfg = Debug|x64
+		{565EDA1A-E1B0-484E-9020-336BF44400EA}.Debug|x64.Build.0 = Debug|x64
+		{565EDA1A-E1B0-484E-9020-336BF44400EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{565EDA1A-E1B0-484E-9020-336BF44400EA}.Debug|x86.Build.0 = Debug|Win32
+		{565EDA1A-E1B0-484E-9020-336BF44400EA}.Release|x64.ActiveCfg = Release|x64
+		{565EDA1A-E1B0-484E-9020-336BF44400EA}.Release|x64.Build.0 = Release|x64
+		{565EDA1A-E1B0-484E-9020-336BF44400EA}.Release|x86.ActiveCfg = Release|Win32
+		{565EDA1A-E1B0-484E-9020-336BF44400EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE9C750-6AD8-49D0-8F62-3A38747987C9}
+	EndGlobalSection
+EndGlobal
