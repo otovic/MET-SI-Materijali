@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ06\\Zadatak1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E63F3952-48E9-4F69-A61E-79969ED3742C}|Zadatak1.vcxproj|C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ06\\Zadatak1\\Zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E63F3952-48E9-4F69-A61E-79969ED3742C}|Zadatak1.vcxproj|solutionrelative:Zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadatak1.c",
+              "DocumentMoniker": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ06\\Zadatak1\\Zadatak1.c",
+              "RelativeDocumentMoniker": "Zadatak1.c",
+              "ToolTip": "C:\\MET-Materijali\\2. Godina\\CS130 - C-C\u002B\u002B programski jezik\\Domaci\\DZ06\\Zadatak1\\Zadatak1.c",
+              "RelativeToolTip": "Zadatak1.c",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T08:07:01.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
