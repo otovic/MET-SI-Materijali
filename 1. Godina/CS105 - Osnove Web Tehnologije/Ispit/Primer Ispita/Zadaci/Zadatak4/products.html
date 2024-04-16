@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantum Electronics</title>
+</head>
+<body>
+    <header>
+        <h1>Quantum Electronics</h1>
+    </header>
+	<div class="search-container">
+		<input type="text" id="search" placeholder="Search products by name...">
+		<button id="search-btn" onclick="searchProducts()">Search</button>
+	</div>
+
+
+
+	<section id="cart">
+        <h2>Shopping Cart</h2>
+        <div id="cart-items"></div>
+        <button onclick="checkout()">Checkout</button>
+    </section>
+	
+	<div id="shipping-details" style="display:block;">
+		<h2>Shipping Details</h2>
+		<label for="name">Name:</label>
+		<input type="text" id="name" name="name"><br><br>
+		<label for="address">Address:</label>
+		<input type="text" id="address" name="address"><br><br>
+		<label for="city">City:</label>
+		<input type="text" id="city" name="city"><br><br>
+		<label for="zip">ZIP Code:</label>
+		<input type="text" id="zip" name="zip"><br><br>
+		<button onclick="generateBill()">Generate Bill</button>
+	</div>
+	
+	<div id="bill"></div>
+
+    <section id="product-list">
+        <!-- Product list will be generated dynamically -->
+    </section>
+	
+	<section id="wishlist">
+		<h2>Wishlist</h2>
+		<div id="wishlist-items"></div>
+	</section>
+
+
+    <script src="script.js"></script>
+</body>
+<footer>
+    <div class="footer-content">
+        <div class="footer-section about">
+            <h2>About Us</h2>
+            <p>Quantum Electronics is your gateway to the cutting-edge world of technology. We offer a curated selection of state-of-the-art electronic devices, from sleek smartphones to powerful laptops and futuristic smart home solutions. With a focus on innovation, quality, and customer satisfaction, Quantum Electronics is committed to bringing you the latest advancements in the realm of electronics. Step into a world where the future meets the present, and explore a universe of limitless possibilities with Quantum Electronics.</p>
+        </div>
+        <div class="footer-section contact">
+            <h2>Contact Us</h2>
+            <p>Email: example@example.com</p>
+            <p>Phone: +1-123-456-7890</p>
+        </div>
+        <div class="footer-section links">
+            <h2>Quick Links</h2>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Cart</a></li>
+                <li><a href="#">Wishlist</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p>&copy; 2023 Quantum Electronics</p>
+    </div>
+</footer>
+</html>
