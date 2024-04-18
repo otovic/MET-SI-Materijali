@@ -1,0 +1,5 @@
+﻿  Roditelj.cpp
+  Zadatak11.cpp
+C:\MET-Materijali\2. Godina\CS130 - C-C++ programski jezik\Domaci\DZ08\Roditelj.cpp(42,22): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+  Generating Code...
+  DZ08.vcxproj -> C:\MET-Materijali\2. Godina\CS130 - C-C++ programski jezik\Domaci\DZ08\x64\Debug\DZ08.exe

@@ -1,0 +1,103 @@
+HEADER FAJL KLASE ----------------------------------------------------------------
+#ifndef STUDENT_H
+#define STUDENT_H
+
+#include <string>
+
+using namespace std;
+
+class Student {
+private:
+    string ime;
+    string prezime;
+    float prosek;
+
+public:
+    Student();
+    Student(const string& ime, const string& prezime, float prosek);
+    Student(const Student& other);
+
+    ~Student();
+
+    void setIme(const string& ime);
+    void setPrezime(const string& prezime);
+    void setProsek(float prosek);
+
+    string getIme() const;
+    string getPrezime() const;
+    float getProsek() const;
+};
+
+#endif
+
+DEFINICIJA KLASE (Student.cpp) ----------------------------------------------------------------------------
+
+#include "Student.h"
+#include <iostream>
+
+using namespace std;
+
+Student::Student() : ime(""), prezime(""), prosek(0.0) {}
+
+Student::Student(const string& ime, const string& prezime, float prosek)
+    : ime(ime), prezime(prezime), prosek(prosek) {}
+
+Student::Student(const Student& other) : ime(other.ime), prezime(other.prezime), prosek(other.prosek) {}
+
+Student::~Student() {
+    cout << "Objekat je unisten" << endl;
+}
+
+void Student::setIme(const string& ime) {
+    this->ime = ime;
+}
+
+void Student::setPrezime(const string& prezime) {
+    this->prezime = prezime;
+}
+
+void Student::setProsek(float prosek) {
+    this->prosek = prosek;
+}
+
+string Student::getIme() const {
+    return ime;
+}
+
+string Student::getPrezime() const {
+    return prezime;
+}
+
+float Student::getProsek() const {
+    return prosek;
+}
+
+MAIN ----------------------------------------------------------------------------
+
+#include <iostream>
+#include "Student.h"
+
+using namespace std;
+
+Student studenti[2];
+
+for (int i = 0; i < 2; ++i) {
+    string ime, prezime;
+    float prosek;
+
+    cout << "Unesite ime, prezime i prosek studenta " << i + 1 << ": ";
+    cin >> ime >> prezime >> prosek;
+
+    studenti[i] = Student(ime, prezime, prosek);
+}
+
+Student najboljiStudent = studenti[0];
+
+for (int i = 1; i < 2; ++i) {
+    if (studenti[i].getProsek() > najboljiStudent.getProsek()) najboljiStudent = studenti[i];
+}
+
+cout << "Najbolji student je: " << najboljiStudent.getIme() << " "
+    << najboljiStudent.getPrezime() << " Prosek: " << najboljiStudent.getProsek() << endl;
+
+return 0;
