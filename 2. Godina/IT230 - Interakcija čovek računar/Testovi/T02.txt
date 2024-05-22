@@ -1,0 +1,237 @@
+1. Mac OS se koirsti na:
+
+ • racunarima
+
+
+2. Aspekti okruzenja su:
+
+ • Hardversko okruženje
+ • Softversko okruženje
+ • Radno okruženje
+
+
+3. Interface manager prvi je naziv za operativni sistem:
+
+ • Windows
+
+
+4. Veb sistemi se sastoje iz:
+
+ • veb klijenta
+ • veb strane
+
+
+
+5. Vecina podataka objavljenih na vebu delo je:
+
+ •nepoznatih autora
+
+
+6. Preporuceno osveteljenje u radnom okruzenju - oko 1000 luksa u kancelariji
+
+ • True 
+
+
+
+7. Hijerarhijske forme se koriste za:
+
+ • svrstavanje informacija u kategorije
+
+
+8. Mis se moze koristiti kao indikator
+
+ • True
+
+
+
+9. Prototip podrazumeva:
+
+ • simulaciju stvarnog sistema
+
+
+
+
+10. Skice su obavezan deo prototipa
+
+False
+
+
+
+11. Graficki korisnicki interfejs se koristi uz primenu:
+
+ • ekrana osetljivog na dodir
+ • poentirajuceg uredjaja
+ • graficke ikonografije
+
+
+
+
+12. Kod dizajniranja help strane u aplikaciji potrebno je obratiti paznju na:
+
+ • sadrzaj strane 
+ • mehanizme pristupa
+ • predstavljanje
+
+
+
+13. Metro design primenjen je u:
+
+ • Windows 8
+
+
+
+14. Hardversko okruzenje podrazumeva:
+
+
+ • hardversku platformu za izvrsavanje programa
+
+
+
+15. WIMP je skracenica od:
+
+ • windows, icons, menus, pointer
+
+
+
+16. Softversko okruzenje podrazumeva:
+
+ • operativni sistem i aplikacije
+
+
+
+17. Sto vise izbora date ljudima veca je verovatnoca da nece nista izabrati je:
+
+ • paradoks izbora
+
+
+18. Standardi korisnickog interfejsa su:
+
+ • metodoski standardi
+ • dizajn principi
+ • dizajn standardi
+
+
+19. Pregled veb sajtova kroz razlicite pregledace moguce je upotrebom:
+
+ • veb standarda
+
+
+20. Koncept dvostrukog klika misem osmisljen je u kompanija:
+
+ • Apple
+
+
+21. Gestalt psihologija je teorija mozga i uma
+
+ • True
+
+
+
+22. Prvi GUI imao je naziv 
+
+ • Smalltalk
+
+
+23. Preklapajuci prozori prvi put su upotrebljeni u windows verziji:
+
+ • 3.0
+
+
+
+24. Novine u Windows 95 operativnom sistemu su bile:
+
+ • task bar
+ • start dugme
+ • grupisanje prozora
+
+
+
+25. 1868. godine QWERTY tastaruru je patentirao:
+
+ • Christopher Scholes
+
+
+
+26. Prvi GUI predstavljao je:
+
+ • prvi graficki-orjentisani jezik
+
+
+
+27. Karakteristike prototipa su:
+
+ • temeljnost
+ • vernost
+ • tacnost
+
+
+
+28. Osecaj izgubljenosti je:
+
+ • problem korisnika
+
+
+29. Hikov zakon:
+
+ • opisuje vreme koje je potrebno da  bi osoba donela odkluku na osnovu mogucih izbora
+
+
+
+30. Akcija koirniska treba da ima:
+
+ • jednostavno znacenje kroz sistem
+ • konzistentno znacenje kroz sistem
+
+
+
+31. Vertikalni toolbar sa desne strane Windows 8 operativnog sistema naziva se:
+
+ • the Charms
+
+
+
+
+
+32. Ulazno-izlazni uredjaju nemaju uticaj na interfejs aplikacije
+
+ • False
+
+
+33. Dvodimenzionalne tabele se koriste kada je potrebno prikazati informacije o objektima koji imaju vise atributa
+
+ • True
+
+
+
+
+34. Unos URL adrese u veb pretrazivac je:
+
+ • navigacija u veb citacu 
+
+
+
+
+
+
+
+
+35. Predstavljanje fajlova u vidu ikona prvi put je korisceno u operativnom sistemu 
+
+ • Lisa
+ • Windows 98
+
+
+
+36. Novine u Windows XP operativnom sistemu su bile:
+
+ • start dugme
+ • zaobljene ivice
+ • remote desktop
+
+
+
+
+
+
+
+
