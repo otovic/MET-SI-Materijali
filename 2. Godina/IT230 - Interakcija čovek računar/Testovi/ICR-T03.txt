@@ -1,0 +1,179 @@
+T03 – ICR
+1.	Dizajniranje za tablete I mobilne uredjaje mora biti prilagodjeno drugacijem korisnisckom iskustvu?
+True
+
+2.	Razvojna alati ukljucuju: (vise odgovora)
+-	Kompajlere X
+-	Biblioteke koda X
+-	Programe X
+-	Scenarije koriscenja
+
+3.	GKI je mehanizam kojim korisnik komunicira sa aplikacijom baziranom na programskom jeziku:
+false
+
+4.	Action bar sluzi: (vise)
+-	Prikaz akcija X
+-	Komunikaciju sa sekundarnim merenjem 
+-	Pregled I kontrolu prelaska X
+-	Preksakanje primarnog menija
+
+5.	Prednosti govorne interkaicje su: (vise)
+-	Lakoca koriscenja X
+-	Kolaboracija
+-	Inutitivnost X
+-	Sveprisutnost X
+-	Efikasnost X
+-	Dostupnost
+
+6.	Faze provere prilikom objavljivanja Android aplikacije su: (vise)
+-	Setup
+- 	Development
+-	Debugging and Testing
+-	Publishing
+
+7.	Auditivni interfejs se zasniva na: (1)
+-	Zvuku X
+-	Govoru korisnika
+-	Sistem za komunikaciju
+
+8.	Senzori pokreta mere:
+-	Silu ubrzanja I rotacije X
+-	Fizicku poziciju uredjaja
+-	Razne parametre iz okruzenja
+
+9.	Sredstva za ubrzavanje procesa razvoja softvera su:(1)
+-	Razvojni kompajleri 
+-	Softveri
+-	Drajveri
+-	Razvojni alati X
+
+10.	Komponente interfejsa android aplikacija su:
+-	Navigation drawer X
+-	Prostor za ilustraciju
+-	Prostor za sadrzaj X
+-	Prostor za navigaciju
+-	Action bar X
+
+11.	Android operativni sistem za telefone koristi: (1)
+-	Windows OS
+-	Linux kernel X
+-	Linux OS
+-	Windows kernel
+
+12.	Tranzicije izmedju dva stanja su bitan faktor u postizanju dobrog korisnickog iskustva:
+True
+
+13.	Negovorni izlaz moze biti u vidu: (vise odgovora)
+-	Auditivnih ikona X
+-	Zvuka okoline X
+-	Muzike u pozadini X
+-	Snimljenog zvuka
+-	Govornog jezika
+
+14.	U grupi senzora gravitacije spadaju : (1-odgovor)
+-	Senzori gravitacije X ??????????????
+-	Rotacioni vektorski senzori
+-	Senzori za orijentaciju
+-	Barometri
+
+15.	Svaka sesija konverzacije u govornom korinisickom interfejsu sastoji se iz: (vise)
+-	Govora korisnika X
+-	Sistemskih poruka X
+-	Animacija
+
+16.	Prvi mobilni telefon sa IOS operativnim sistemom proizveden je: (1)
+-	2008
+-	2007 X
+-	2009
+
+17.	Sistemske poruke su: 	(1)
+-	Unapred zapisani, sintetisani govor koji korisnik dobija tokom dijaloga X
+-	Reci koje korisnik moze da izgovori kao odgovor rad sistema
+-	Tok akcija u sistemu tokom interakcije
+
+18.	Reupotrebljivo resenje za uobicajne probleme u okviru zadatog konteksta unutar dizajna softvera je: (1)
+-	Dizajn patern X
+-	Dizajn scenario
+-	Dizajn
+-	Dizajn skica
+
+19.	Prvi mobilni telefon sa Windows operativnim sistemom proizveden je: (1)
+-	2008
+-	2010 X
+-	2009
+
+20.	Sekundarna navigacija: (vise)
+-	Sluzi kao osnova za pristupanje udaljenim delovima veb sajta
+-	Sluzi za dubinsko ulazenje u sajt X
+-	Koristi horizontalne opcije za pristup udaljenom sadrzaju
+-	Povezana je sa nekom od opcija primarne navigacije X
+
+21.	Kada je navigacija na istom mestu na veb stranicama sajta I uradjena u istom stilu onda ona predstavlja: (1)
+-	Sredstvo indirektnog brendinga X
+-	Povecanu interoperabilnost veb sajta
+-	Povecanu upotrebljivost veb sajta
+-	Sekundarnu navigaciju
+
+22.	Za izletanje navigacije koristi se: (1)
+-	Off canvas, navigation driver
+-	Off canvas, navigation drawer X
+
+23.	Dve karakteristike govornog korisnickog interfejsa su: (vise)
+-	Interkacija putem govornog jezika X
+-	Visejezicnost sistema
+-	Modalitet interfejsa je auditivan X
+-	Sposobnost prepoznavanja odgovora
+
+24.	Interakcija covek racunar bazirana je na:  (vise)
+-	Kolaboratoioivnim procesima
+-	Motornim akcijama X
+-	Sistemima motornoih akcija
+-	Kognitivnim I intuitivnim mentalnim procesima X
+
+25.	Veb sajtovi koji se pregledaju skrolovanjem misa su popularniji od vebsajtova koji koriste klik na linkove za pristupanje odredjenom sadrzaju:
+True ??????????????????
+
+26.	Automatsko kreiranje gramatickog modela iz primera naziva se: (1)
+-	Gramaticki model jezika
+-	Dinamicki model jezika
+-	Staticki model jezika X
+
+27.	Cross-fade je:
+-	CSS3 navigacija
+-	CSS3 animacija
+-	CSS3 tranzicija X
+
+28.	Primarna navigacija vebsajta treba da bude: (1)
+-	Postavljena na isto mesto I u istom stilu na celom vebsajtu X
+-	Postavljena na isto mesto u ralzicitm stilovima na sajtu
+
+29.	Sintenizacija govora se koristi kao model u okviru govornog interfejsa:
+True
+
+30.	Skracenica za virtuelnu masinu koja se koristi za upravljanje .net programima : (1)
+-	CLS
+-	CLR X
+-	CRL
+
+31.	Upotreba govornog interfejsa zahteva koriscenje modela prepoznavanja koji se sastoji iz: (vise)
+-	Gramatike X
+-	Recnika X
+-	Gramatickog modela
+-	Kompajlera
+-	Akustickog modela X
+-	Drajvera
+
+32.	Za objavljivanje aplikacije na Aplle app storeu potrebno je: (vise)
+-	Biti registrovan developer X
+-	Proci kroz tri cetiri definisane faze
+-	Posedovati developer sertifikat X
+
+33.	Lista provera prilikom objavljivanja Android apliakcije sadrzi: (1)
+-	Tri faze
+-	Cetiri faze X
+-	Dve faze
+
+
+
+
+

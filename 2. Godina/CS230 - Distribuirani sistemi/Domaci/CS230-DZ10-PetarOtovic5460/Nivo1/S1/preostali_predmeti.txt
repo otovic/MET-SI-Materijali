@@ -1,0 +1,5 @@
+├── GODINA 2
+   │           ├── SEMESTAR 4
+   │           │              ├── SM222 - Interakcija Covek-Racunar
+   │           │              └── IT250 - Baze Podataka
+   │           │              └── CS230 - Distribuirani Sistemi
