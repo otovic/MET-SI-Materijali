@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4afc3cf-59a1-47e4-971f-bfa0ec55ee7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/mirror_tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/mirror_tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/mirror_tree/mejin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/utils/utilsbt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak1/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak1/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak10NZD/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak10NZD/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak10NZD/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak11NZD/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak11NZD/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak11NZD/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak12/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak12/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak12/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak13/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak13/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak13/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak2/Cvor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak2/mejn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak4/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak4/zadatak4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak5/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak5/mejin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak6/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak6/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak6/mejin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak7/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak7/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak7/mejin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak8/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak8/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak8/mejin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak9NZD/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak9NZD/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarno_stablo/zadatak9NZD/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/brojevi/utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/brojevi/zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/registarske_oznake/mejin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/registarske_oznake/oznake.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak1/zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak10/Zadatak3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak10/reci.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak11/Zadatak4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak11/reci.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak12/Zadatak5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak12/reci.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak13/Zadatak6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak13/asd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak14/Zadatak7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak15/Zadatak8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak2/parni_valjak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak2/ulaz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak3/mejn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak4/mejn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak5/majn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak5/ulaz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak6/mejn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak6/ulaz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak7/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak7/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak7/mejin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak7/studenti.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak8/studenti.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak8/zadatak8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak9/reci.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fajlovi/zadatak9/zadatak9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/grafDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak10/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak10/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak3/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak3/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak3/ulaz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak4/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak4/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak5/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak5/mejin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak6/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak6/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak7/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak7/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak8/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak8/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak9/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak9/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grafovi/zadatak9/mein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/prijaltelji/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/prijaltelji/Zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/zadatak1/reci.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/zadatak1/zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/zadatak2/CircularList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/zadatak2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/zadatak2/zadatak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/zadatak4/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste/zadatak4/zadatak4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste_povezanosti/zadatak1/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste_povezanosti/zadatak2/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste_povezanosti/zadatak2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/liste_povezanosti/zadatak3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nizovi/zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/broj_telefona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/decimalni_brojevi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/diplomatske_oznake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/instagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/komentari_koda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/vreme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/yymmdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regularni_izrazi/zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/leksi_poredjenje_dva_stringa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/matrica_simetricna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/paran_broj_cifara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/permutacije.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/proizovd_parnih_cifara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/zadatak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/zadatak3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/zbir_cifara_neparan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/zbir_cifara_paran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rekurzija/zbir_neparnih_cifara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/tandem_podtekst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/zadatak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/zadatak3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/zadatak4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/zadatak5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/zadatak6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/zadatak7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringovi/zadatak8.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2lmn60vbfQE2GTlpsRZTZkf6pAK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/CS202-Resenja/Resenja/src/main/java/fajlovi/zadatak15",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CS202-Resenja\Resenja\src\main\java\fajlovi\zadatak15" />
+      <recent name="D:\CS202-Resenja\Resenja\src\main\java\fajlovi\zadatak14" />
+      <recent name="D:\CS202-Resenja\Resenja\src\main\java\fajlovi\zadatak13" />
+      <recent name="D:\CS202-Resenja\Resenja\src\main\java\fajlovi\zadatak12" />
+      <recent name="D:\CS202-Resenja\Resenja\src\main\java\fajlovi\zadatak11" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4afc3cf-59a1-47e4-971f-bfa0ec55ee7b" name="Changes" comment="" />
+      <created>1725793940381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725793940381</updated>
+      <workItem from="1725793941781" duration="15309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/stringovi/zadatak5.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

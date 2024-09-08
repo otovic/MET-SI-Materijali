@@ -1,0 +1,4 @@
+Slika1.jpg 552
+Dijagram.jpg 120
+Skica.png 452
+Tasks.txt 872

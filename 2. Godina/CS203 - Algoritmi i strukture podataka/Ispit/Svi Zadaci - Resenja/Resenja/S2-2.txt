@@ -1,0 +1,4 @@
+informatika
+algoritam
+program
+test
