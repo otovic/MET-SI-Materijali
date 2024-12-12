@@ -1,0 +1,32 @@
+1: zahtevi
+2: stil upotrebe
+3: servisno-orijentisani stil
+4: stil razlaganja
+5: upotrebom pristupa predloziti arhitekturu
+6: gotove i razvijene komponente
+7: stil slojeva
+8: projektno resenje primenom servisa uz kombinovanje postojecih servisa i servisa koje treba razviti
+9: stil objavi-pretplati se
+
+----------------
+
+Jun A:
+	funkcionalni i nefunkcionalni zahtevi
+	stil upotrebe soft. arh.
+	servisno-orijentisani stil soft. arh.
+	upotrebom pristupa soft. arh..
+	gotove postojece komponente
+
+Jun B:
+	funkcionalni i nefunkcionalni zahtevi
+	stil upotrebe soft. arh.
+	servisno-orijentisani stil soft. arh.
+	stil razlaganja soft. arh.
+	gotove postojece komponente
+
+Januar B:
+	funkcionalni i nefunkcionalni zahtevi
+	stil razlaganja soft. arh.
+	stil slojeva soft. arh.
+	servisno-orijentisani stil soft. arh.
+	projektno resenje primenom servisa uz kombinovanje...

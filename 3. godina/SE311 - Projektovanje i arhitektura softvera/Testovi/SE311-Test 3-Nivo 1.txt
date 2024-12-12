@@ -1,0 +1,65 @@
+Vidljivost podmodula se grafički ne označava granicom koja pokazuje da li su podmoduli dostupni van modula "roditelja".
+
+
+Tačno
+
+Netačno
+2. Kada je reč o stilu razlaganja poznato je da paralelno razdvajanje modula omogućava njihov razvoj i održavanje od strane različitih timova u istom proizvodu.
+
+
+Tačno
+
+Netačno
+3. Za razliku od stila razlaganja koji prikazuje samo strukturu modula i podmodula, stil upotrebe pokazuje funkcionalne zavisnosti između modula.
+
+
+Tačno
+
+Netačno
+4. Šta je od navedenog tačno?
+
+
+Ništa od navedenog
+
+
+Modul "Korisnički interfejs" razložen na podmodule A, B, i C, pri čemu najmanje jedan od njih koristi modul "Pristup podacima".
+
+
+Modul "Korisnički interfejs" koristi modul "Pristup podacima".
+
+5. Stil generalizacije omogućava izražavanje nasleđivanja, zbog čega je moguća ponovna upotreba i proširivanje funkcionalnosti.
+
+
+Tačno
+
+Netačno
+6. "Roditeljski" modul predstavlja generalnu verziju modula, dok "detalji" (podmoduli) predstavljaju specijalizovane verzije.
+
+
+Tačno
+
+Netačno
+7. Kod stila slojeva arhitekture slojevi se obično prikazuju odozgo nadole u dijagramima, pri čemu slojevi na višim nivoima zavise od slojeva na nižim nivoima za izvršavanje svojih funkcionalnosti.
+
+
+Tačno
+
+Netačno
+8. Slojevi pomažu u organizovanju i komunikaciji arhitekture sistema, ali često nisu striktno definisani kroz programski kod. Kod može pokazati gde se koji modul koristi unutar sistema.
+
+
+Tačno
+
+Netačno
+9. Aspekti se koriste za modifikovanje unakrsnog kretanja podataka između modula, i povezivanje između njih ne mora biti definisano.
+
+
+Tačno
+
+Netačno
+10. Aspekti se koriste za modifikovanje unakrsnog kretanja podataka između modula, i predstavljaju funkcionalnosti koje mogu preći između više modula, a povezivanje između njih mora biti jasno definisano.
+
+
+Tačno
+
+Netačno

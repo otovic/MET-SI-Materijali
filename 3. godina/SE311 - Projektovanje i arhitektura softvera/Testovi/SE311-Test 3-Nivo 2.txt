@@ -1,0 +1,73 @@
+Moduli predstavljaju jedinice implementacije pa nije potrebno navoditi informacije u vezi njihove implementacije
+
+
+Tačno
+
+Netačno
+2. Stilovi modula imaju sledeće vrste relacija:
+
+
+zavisi od
+
+
+je deo od
+
+
+je
+
+3. Projektant softvera ne izvršava podelu radnih zadataka članovima tima po modulima dobijenim u stilu razlaganja.
+
+
+Tačno
+
+Netačno
+4. Razlaganje modula može omogućiti vidljivost pod modula samou okviru modula u kome se nalaze ("roditelj" modula) ili vidljivost svim ostalim modulima sistema.
+
+
+Tačno
+
+Netačno
+5. Modul unutar stila upotrebe "koristi" drugi modul ako njegova ispravnost zavisi od ispravnosti drugog modula.
+
+
+Tačno
+
+Netačno
+6. Stil generalizacije omogućava izražavanje nasleđivanja u objektno-orijentisanom projektovanju sistema.
+
+
+Tačno
+
+Netačno
+7. Generalizacija može biti korišćena za:
+
+
+Globalnu promenu
+
+
+Objektno-orijentisano projektovanje
+
+
+Ponovnu upotrebu
+
+
+Lokalnu promenu ili varijaciju
+
+8. Svaki sloj predstavlja grupu modula koji su povezani i omogućavaju povezani skup usluga. Odnosi između slojeva moraju biti jednosmerni.
+
+
+Tačno
+
+Netačno
+9. Slojeviti prikaz arhitekture softvera jedan je od retko korišćenih prikazana u dokumentaciji.
+
+
+Tačno
+
+Netačno
+10. Stil aspekta je primenjiv kroz nasleđivanje klasa i interfejsa, korisničkih biblioteka ili drugih alternativa.
+
+
+Tačno
+
+Netačno
