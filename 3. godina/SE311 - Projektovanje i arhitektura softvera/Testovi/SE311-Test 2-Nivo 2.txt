@@ -1,0 +1,70 @@
+Stilovi alokacije dokumentuju odnose između softverskog i ne-softverskog resursa sistema razvojnih i izvršnih okruženja.
+
+
+Tačno
+
+Netačno
+2. Svaki stil ima sopstveni rečnik (tipova elemenata i odnosa).
+
+
+Tačno
+
+Netačno
+3. Sedam pravila dokumentacije služe kako bi prikazali smernice za pisanje i čitanje tehničke dokumentacije.
+
+
+Tačno
+
+Netačno
+4. Koji je cilj dokumentacije softverske arhitekture u vezi sa atributima kvaliteta?
+
+
+Koristiti skraćenice i žargon za efikasniju komunikaciju.
+
+Označiti rešenja koja zadovoljavaju zahteve atributa kvaliteta i argumentovati ih.
+
+Omogućiti što više međuzavisnosti između delova sistema.
+5. Koji je cilj različitih pogleda na softversku arhitekturu?
+
+
+Dokumentovanje softverske arhitekture iz perspektive jednog aktera
+
+Omogućavanje pregleda i dokumentovanja elemenata iz više uglova i uvida u atribute kvaliteta
+
+Ograničavanje upotrebe dokumentacije na jedan tip korisnika
+6. Šta se dešava ako implementeri ne razumeju kako da primene projektovanu softversku arhitekturu?
+
+
+Softverska arhitektura može postati neupotrebljiva, što čini sav proces projektovanja beskorisnim
+
+Implementacija će biti brža i lakša
+
+Arhitektura će se automatski prilagoditi potrebama tima
+7. Upotreba arhitekture kao sredstva komunikacije ne zavisi od toga koliko strane zainteresovane za razvoj softvera rade na komunikaciji.
+
+
+Tačno
+
+Netačno
+8. Koji atribut kvaliteta omogućava definisanje primarnih i sekundarnih mehanizama u softverskoj arhitekturi?
+
+
+Performanse
+
+Pouzdanost
+
+Dostupnost
+9. Koji pristup projektovanju arhitekture je najpovoljniji za skalabilnost?
+
+
+Servisna arhitektura
+
+Klijent-server pristup
+
+Slojevita arhitektura
+10. Utvrđivanje potreba naručioca softvera ne mora da bude ispunjeno da bi dokumentacija arhitekture bila od koristi.
+
+
+Tačno
+
+Netačno

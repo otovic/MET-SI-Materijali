@@ -1,0 +1,64 @@
+Stil alokacije predstavlja funkcionalne aspekte i ograničenja svakog modula u arhitekturi.
+
+
+Tačno
+
+Netačno
+2. U dokumentaciji softverske arhitekture treba pružiti dodatne izvore informacija o odabranom stilu za čitaoce.
+
+
+Tačno
+
+Netačno
+3. Komponente i konektori u C&C stilu prikazuju dinamiku izvršavanja sistema kroz povezivanje usluga, procesa i klijenata.
+
+
+Tačno
+
+Netačno
+4. Moduli su osnovne jedinice dekompozicije, poput klasa ili slojeva, sa specifičnim svojstvima.
+
+
+Tačno
+
+Netačno
+5. Dobar softverski sistem mora ne samo da pruža tačne rezultate, već i da ih isporučuje brzo i sigurno.
+
+
+Tačno
+
+Netačno
+6. Koji pristup može pomoći u postizanju visokih performansi softverskog sistema?
+
+
+Definisanje vrednosti tokova podataka
+
+Uvođenje elemenata koji povećavaju poverenje korisnika
+
+Identifikacija potencijalnih uskih grla u performansama
+7. Koji je jedan od načina za povećanje bezbednosti softverskog sistema?
+
+
+Identifikovanje kritičnih delova sistema koji su podložni neautorizovanom pristupu.
+
+Povećanje brzine obrade podataka.
+
+Istraživanje mogućnosti paralelizma kroz dekompoziciju.
+8. Standardizovana organizaciona šema za dokumentaciju softverske arhitekture omogućava jasnu strukturu i olakšava čitaocima brzo pronalaženje informacija.
+
+
+Tačno
+
+Netačno
+9. Jedno od ključnih pravila za kvalitetnu dokumentaciju jeste razumevanje čitalaca i potrebno je saznati ko su, šta znaju i šta očekuju od sistema.
+
+
+Tačno
+
+Netačno
+10. U procesu projektovanja, odluke se retko revidiraju, pa nema potrebe da se redovno ažurira dokumentacija.
+
+
+Tačno
+
+Netačno
