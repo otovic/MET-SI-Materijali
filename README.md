@@ -1,5 +1,5 @@
 📚 MET-SI-Materijali <br/>
-Materijali za smer Softversko Inženjerstvo na Univerzitetu Metropolitan — primeri ispita, skripte, kolokvijumi, kodovi i ostali resursi koji mogu pomoći studentima tokom studiranja.
+Materijali za smer Softversko Inženjerstvo na Univerzitetu Metropolitan, primeri ispita, skripte, kolokvijumi, kodovi i ostali resursi koji mogu pomoći studentima tokom studiranja.
 
 📁 Struktura repozitorijuma
 1. Godina/
@@ -9,7 +9,7 @@ Materijali za smer Softversko Inženjerstvo na Univerzitetu Metropolitan — pri
 Materijali su organizovani po godinama studija. Svaki folder sadrži podfoldere za odgovarajuće predmete sa relevantnim materijalima.
 
 🤝 Doprinesi <br/>
-Pull requests su dobrodošli! Ako imaš materijale koji nedostaju — bilo da su u pitanju skripte, rešeni ispiti, kolokvijumi, beleške ili kodovi — slobodno otvori PR i pomozi kolegama.
+Pull requests su dobrodošli! Ako imaš materijale koji nedostaju, bilo da su u pitanju skripte, rešeni ispiti, kolokvijumi, beleške ili kodovi, slobodno otvori PR i pomozi kolegama.
 Kako da doprineseš:
 
 Forkuj repozitorijum
@@ -19,4 +19,4 @@ Otvori pull request sa kratkim opisom šta dodaješ
 Svaki doprinos je dragocen i pomaže celoj studentskoj zajednici.
 
 ⭐ Podrži projekat <br/>
-Ako su ti materijali pomogli, ostavi ⭐ na repozitorijumu — to pomaže da više studenata pronađe ove resurse.
+Ako su ti materijali pomogli, ostavi ⭐ na repozitorijumu, to pomaže da više studenata pronađe ove resurse.
