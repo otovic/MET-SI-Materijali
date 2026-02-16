@@ -10,11 +10,11 @@ Materijali su organizovani po godinama studija. Svaki folder sadrži podfoldere 
 
 🤝 Doprinesi <br/>
 Pull requests su dobrodošli! Ako imaš materijale koji nedostaju, bilo da su u pitanju skripte, rešeni ispiti, kolokvijumi, beleške ili kodovi, slobodno otvori PR i pomozi kolegama.
-Kako da doprineseš:
+Kako da doprineseš: <br/>
 
-Forkuj repozitorijum
-Dodaj svoje materijale u odgovarajući folder (godina/predmet)
-Otvori pull request sa kratkim opisom šta dodaješ
+- Forkuj repozitorijum <br/>
+- Dodaj svoje materijale u odgovarajući folder (godina/predmet) <br/>
+- Otvori pull request sa kratkim opisom šta dodaješ <br/>
 
 Svaki doprinos je dragocen i pomaže celoj studentskoj zajednici.
 
